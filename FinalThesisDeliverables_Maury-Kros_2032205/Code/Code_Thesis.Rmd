@@ -17,7 +17,7 @@ This notebook serves as supplementary material to the master thesis. Over the co
 
 ## Section 2
 
-In this section we provide the code for the plot at the end of section 2 in the thesis. Note that there is sampling variability in the plot since patients are drawn from a population, so we might end up with a slightly different plot. Since this plot only serves to make the theory in section 2 visual, we ended up selecting a random plot that looked appealing.
+In this section we provide the code for the plot at the end of section 2 in the thesis. Note that there is sampling variability in the plot since patients are drawn from a population, so we might end up with a slightly different plot. Since this plot only serves to make the theory in section 2 visual, we ended up selecting a plot that looked appealing.
 
 ```{r}
 
